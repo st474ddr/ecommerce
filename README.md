@@ -1,17 +1,17 @@
-composer install
-php artisan migrate:refresh --seed
-把.env.example複製成.env
-php artisan key:generate
-npm install
-
-
-liveware for cart
-roles for role, permission
-bootstrap 4.6
-livewire 2.5 <-> ALPINEJS
-orion-svg-sprite.svg
-Omnipay
-
-
-admin password
-supervisor password
+composer install <br>
+php artisan migrate:refresh --seed <br>
+把.env.example複製成.env <br>
+php artisan key:generate <br>
+npm install <br> 
+<br>
+<br>
+liveware for cart <br>
+roles for role, permission <br>
+bootstrap 4.6 <br>
+livewire 2.5 <-> ALPINEJS <br>
+orion-svg-sprite.svg <br>
+Omnipay <br>
+<br>
+<br>
+admin password <br>
+supervisor password <br>
